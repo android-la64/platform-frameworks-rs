@@ -22,6 +22,9 @@ cc_defaults {
         riscv64: {
             enabled: false,
         },
+        loongarch64: {
+            enabled: false,
+        },
     },
 }
 
